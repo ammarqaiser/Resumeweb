@@ -1,0 +1,11 @@
+.image-container {
+    max-width: 100%;
+    overflow-x: hidden; /* Hides horizontal overflow */
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
